@@ -16,5 +16,6 @@ doing changes in local
     jQuery, ML
 	AWS
 	Google
+	AWS ARCH
 
 Addig note for git stash
