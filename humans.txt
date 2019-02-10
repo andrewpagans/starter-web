@@ -16,3 +16,5 @@ doing changes in local
     jQuery, ML
 	AWS
 	Google
+
+Addig note for git stash
