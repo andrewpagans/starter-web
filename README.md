@@ -8,3 +8,5 @@ adding git rebase
 adding more rebase
 
 Sample website with plenty of files for demos
+
+add stash
